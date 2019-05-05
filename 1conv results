@@ -1,0 +1,30 @@
+
+Step 89, Minibatch Loss= 1.2113, Training Accuracy= 0.660
+Step 90, Minibatch Loss= 1.2447, Training Accuracy= 0.695
+Step 91, Minibatch Loss= 1.1668, Training Accuracy= 0.735
+Step 92, Minibatch Loss= 0.9019, Training Accuracy= 0.670
+Step 93, Minibatch Loss= 1.1027, Training Accuracy= 0.710
+Step 94, Minibatch Loss= 1.4687, Training Accuracy= 0.600
+Step 95, Minibatch Loss= 1.2479, Training Accuracy= 0.715
+Step 96, Minibatch Loss= 1.0480, Training Accuracy= 0.655
+Step 97, Minibatch Loss= 1.0365, Training Accuracy= 0.680
+Step 98, Minibatch Loss= 1.0042, Training Accuracy= 0.680
+Step 99, Minibatch Loss= 1.0893, Training Accuracy= 0.670
+Step 100, Minibatch Loss= 1.0461, Training Accuracy= 0.735
+
+
+
+5 kernel 3 stride
+
+Step 89, Minibatch Loss= 0.5126, Training Accuracy= 0.845
+Step 90, Minibatch Loss= 0.4927, Training Accuracy= 0.795
+Step 91, Minibatch Loss= 0.5796, Training Accuracy= 0.855
+Step 92, Minibatch Loss= 0.4070, Training Accuracy= 0.875
+Step 93, Minibatch Loss= 0.4800, Training Accuracy= 0.870
+Step 94, Minibatch Loss= 0.4880, Training Accuracy= 0.905
+Step 95, Minibatch Loss= 0.5367, Training Accuracy= 0.870
+Step 96, Minibatch Loss= 0.6254, Training Accuracy= 0.845
+Step 97, Minibatch Loss= 0.3948, Training Accuracy= 0.870
+Step 98, Minibatch Loss= 0.3941, Training Accuracy= 0.865
+Step 99, Minibatch Loss= 0.5050, Training Accuracy= 0.825
+Step 100, Minibatch Loss= 0.4696, Training Accuracy= 0.865
